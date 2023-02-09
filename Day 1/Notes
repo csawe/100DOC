@@ -1,0 +1,17 @@
+ReST - Representational State Transfer
+headers - specify info about content you're requesting
+What is meaning of restful?
+constraints for API to be considered restful: 
+    Client - server architecture
+    statelessness
+    layered system
+    cacheability
+    uniform design
+    code on demand
+Body of response is encapsulated in JSON
+HTTP verbs in rest:
+    get - get data from server
+    post - add data from server
+    put - |
+    patch - update data
+    delete - delete data from server
